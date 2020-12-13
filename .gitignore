@@ -4,3 +4,5 @@ kanjivg.xml
 kanjivg-*xml.gz
 kanjivg-*.zip
 parse-xml.pl
+/kanjiTest
+/kanjiPreprocessed
