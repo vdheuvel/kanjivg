@@ -48,7 +48,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08aac-s7" kvg:type="㇐b" d="M21.97,92.55c4.08-0.46,8.55-1.07,14.27-1.56c1.02-0.09,2.07-0.17,3.17-0.25"/>
 		</g>
 	</g>
-	<g id="kvg:08aac-g3" kvg:element="兌" kvg:position="right" kvg:phon="兌">
+	<g id="kvg:08aac-g3" kvg:element="兑" kvg:original="兌" kvg:position="right" kvg:phon="兌">
 		<g id="kvg:08aac-g4" kvg:element="八" kvg:variant="true" kvg:position="top">
 			<g id="kvg:08aac-g5" kvg:position="left">
 				<path id="kvg:08aac-s8" kvg:type="㇔" d="M52.5,17.12c3.26,2.44,8.43,10.05,9.25,13.85"/>
