@@ -1,3 +1,15 @@
+Notes about fork: 
+I'm making edits to this repo for my own project. Most of the edits are 
+- adding elements 
+- adding both group and elements
+- fix elements to resemble a rendered font version more closely
+- (rare) bug fixes
+- (rare) stroke modifications
+
+None of the changes in the repo are merged back the main repo because it's not being actively maintained.
+
+Below is the original readme, at the time of forking.
+
 This is the KanjiVG source repository. It is rather raw, so you probably want
 to process it before using it.
 
