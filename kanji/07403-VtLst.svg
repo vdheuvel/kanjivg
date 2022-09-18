@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_07403-VtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07403-VtLst" kvg:element="球">
-	<g id="kvg:07403-VtLst-g1" kvg:element="王" kvg:original="玉" kvg:partial="true" kvg:position="left" kvg:radical="general">
+	<g id="kvg:07403-VtLst-g1" kvg:element="𤣩" kvg:original="玉" kvg:partial="true" kvg:position="left" kvg:radical="general">
 		<path id="kvg:07403-VtLst-s1" kvg:type="㇐" d="M13.75,29.25c0.56,0.37,3.6,0.45,4.16,0.34c2.63-0.5,13.34-2.09,19.66-2.64c0.86-0.07,2.46-0.26,3.18,0.04"/>
 		<path id="kvg:07403-VtLst-s2" kvg:type="㇑a" d="M12.5,55c0.55,0.4,4.45,0.46,5.01,0.37c3.25-0.53,15.24-3.62,19.73-4.19c0.69-0.09,3.22-0.16,4.25,0.19"/>
 		<path id="kvg:07403-VtLst-s3" kvg:type="㇐" d="M12.25,83.75c0.54,0.23,2.68,1.93,3.5,1.5C21,82.5,28.5,78.5,36.5,73.75"/>
