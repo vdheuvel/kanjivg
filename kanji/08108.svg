@@ -44,11 +44,13 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08108-s4" kvg:type="㇐a" d="M18.25,59.25c5-0.5,10.25-1.25,15.5-1.5"/>
 	</g>
 	<g id="kvg:08108-g2" kvg:element="𠂢" kvg:position="right" kvg:phon="𠂢">
-		<path id="kvg:08108-s5" kvg:type="㇒" d="M71.32,13.25c0.05,0.5-0.23,1.46-0.6,1.99C66.07,21.9,61.62,26.41,51.75,34"/>
-		<g id="kvg:08108-g3" kvg:element="丿">
-			<path id="kvg:08108-s6" kvg:type="㇒" d="M48.74,34.78c0.99,0.99,1.42,2.3,1.42,4.26c0,17.91,2.09,38.45-10.35,51.7"/>
+		<g id="kvg:08108-Kaisho-g3" kvg:element="⺁">
+			<path id="kvg:08108-s5" kvg:type="㇒" d="M71.32,13.25c0.05,0.5-0.23,1.46-0.6,1.99C66.07,21.9,61.62,26.41,51.75,34"/>
+			<g id="kvg:08108-g4" kvg:element="丿">
+				<path id="kvg:08108-s6" kvg:type="㇒" d="M48.74,34.78c0.99,0.99,1.42,2.3,1.42,4.26c0,17.91,2.09,38.45-10.35,51.7"/>
+			</g>
 		</g>
-		<g id="kvg:08108-g4" kvg:element="亻" kvg:variant="true" kvg:original="人">
+		<g id="kvg:08108-g5" kvg:element="亻" kvg:variant="true" kvg:original="人">
 			<path id="kvg:08108-s7" kvg:type="㇒" d="M81.09,26.75c-0.02,0.85-0.39,1.76-0.88,2.44c-2.96,4.06-8.46,8.56-14.09,12.06"/>
 			<path id="kvg:08108-s8" kvg:type="㇑" d="M62.62,41.75c0.88,0.88,1.21,2.25,1.21,3.5c0,0.87,0.02,29.46,0.03,43.38c0,2.53,0,4.57,0,5.88"/>
 		</g>
