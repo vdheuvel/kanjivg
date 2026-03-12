@@ -6,3 +6,4 @@ kanjivg-*.zip
 parse-xml.pl
 /kanjiTest
 /kanjiPreprocessed
+.vs/*
